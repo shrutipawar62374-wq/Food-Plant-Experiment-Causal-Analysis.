@@ -1,0 +1,14 @@
+Metric,Value
+Original Treatment Effect,0.009697502993955442
+Original CI Lower,0.008745209381254861
+Original CI Upper,0.010649796606656402
+Adjusted Treatment Effect,0.009872815421518705
+Adjusted CI Lower,0.009004926007963859
+Adjusted CI Upper,0.010740704835073552
+Adjusted P-value,4.050817499764593e-110
+Variance Reduction Percentage,16.76420202405349
+Original Required Sample,472.0
+Adjusted Estimated Sample,393.0
+Original Test Duration,14.0
+Adjusted Test Duration,14.0
+Estimated Days Saved,0.0
